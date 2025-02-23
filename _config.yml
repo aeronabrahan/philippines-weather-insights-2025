@@ -1,1 +1,20 @@
+theme: jekyll-theme-midnight
 
+title: Philippines Weather Insights 2025
+description: A Power BI project analyzing real-time weather trends in major Philippine cities.
+
+show_downloads: true
+
+include:
+  - assets/datasets
+  - assets/docs
+  - assets/images
+  - assets/pbi
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/your-username/philippines-weather-insights-2025
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
