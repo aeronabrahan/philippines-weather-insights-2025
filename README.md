@@ -126,7 +126,7 @@ FROM weather_db;
 ```
 
 ## **Live Dashboard**  
-[View the Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/ae55e483-79a2-436c-a062-3235c3a1d585/64155e34167387cca5e1?experience=power-bi](https://app.powerbi.com/reportEmbed?reportId=ae55e483-79a2-436c-a062-3235c3a1d585&autoAuth=true&ctid=254ba93e-1f6f-48f3-90e6-e2766664b477))  
+[View the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=ae55e483-79a2-436c-a062-3235c3a1d585&autoAuth=true&ctid=254ba93e-1f6f-48f3-90e6-e2766664b477)  
 
 ## **Project Repository Structure**  
 ```
@@ -155,15 +155,4 @@ If you're interested in data analytics, climate monitoring, or business intellig
 ## **Final Thoughts**  
 This project demonstrates how data analytics transforms raw weather data into actionable insights. By leveraging SQL and Power BI, this dashboard provides real-time monitoring, helping businesses, governments, and communities prepare for extreme weather conditions.  
 
-This is a step toward transitioning into a full-time data analytics career, combining engineering knowledge with data-driven decision-making.  
-
----
-### **✅ Final Steps**
-- **Paste this into your `README.md` file** inside your GitHub repository.
-- **Commit and push**:
-  ```sh
-  git add README.md
-  git commit -m "Finalized README.md with SQL queries and full project details"
-  git push origin main
-  ```
-- **Verify the changes on GitHub** by opening your repository in a browser.
+This is a step toward transitioning into a full-time data analytics career, combining engineering knowledge with data-driven decision-making.
