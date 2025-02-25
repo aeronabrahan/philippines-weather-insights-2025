@@ -13,7 +13,7 @@ include:
 
 github:
   is_project_page: true
-  repository_url: https://github.com/your-username/philippines-weather-insights-2025
+  repository_url: https://github.com/aeronabrahan/philippines-weather-insights-2025
 
 plugins:
   - jekyll-seo-tag
